@@ -1,3 +1,7 @@
+## Earlier Docsplus experiment
+
+This repository preserves an earlier Docsplus implementation. Current editor, collaboration-server, and extension development is in [docs-plus/docs.plus](https://github.com/docs-plus/docs.plus). Use the current repository for new integrations; the setup below is historical.
+
 # Docsplus
 
 Docs.plus is an open-source, real-time collaborative tool that enables communities to share and organize knowledge in a hierarchical manner. By leveraging the power of open-source technologies, Docs.plus makes it easy for communities to collaborate on documents and share knowledge in a structured, logical way.

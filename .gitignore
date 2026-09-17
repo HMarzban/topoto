@@ -115,3 +115,5 @@ packages/**/.env.*
 packages/web/dev-dist
 
 .npmrc
+
+.DS_Store
